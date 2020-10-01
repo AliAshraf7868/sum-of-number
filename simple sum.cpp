@@ -2,11 +2,11 @@
 using namespace std;
 int main()
 {
-	int a,b,c;
-	cout<<"take first number for adition";
+	int a,b,sum;
+	cout<<"Enter the First Number";
 	cin>> a ;
-	cout<<"take second number for adition";
+	cout<<"Enter the Second Number";
 	cin>> b ;
-	c=a+b;
-	cout<<c;
+	sum=a+b;
+	cout<<sum;
 }
